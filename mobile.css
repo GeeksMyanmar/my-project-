@@ -1,0 +1,18 @@
+/* mobile first approve */
+@media (min-width:576px) {
+    body {
+        background: lightblue;
+    }
+}
+
+@media (min-width:768px) {
+    body {
+        background: lightcoral;
+    }
+}
+
+@media (min-width:1008px) {
+    body {
+        background: lightgreen;
+    }
+}

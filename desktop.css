@@ -1,0 +1,30 @@
+/* desktop first approve */
+@media (max-width:1000px) {
+    body {
+        background: pink;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width:768px) {
+    body {
+        background: blue;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width:576px) {
+    body {
+        background: green;
+    }
+
+    h1 {
+        font-size: 1rem;
+    }
+}
